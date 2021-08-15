@@ -1,4 +1,4 @@
-[![MohamedAae](https://circleci.com/gh/MohamedAae/udacity-project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/mohamedaae/udacity-project-ml-microservice-kubernetes)
+[![MohamedAae](https://circleci.com/gh/MohamedAae/udacity-project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/MohamedAae/udacity-project-ml-microservice-kubernetes)
 
 ## Project Overview
 
